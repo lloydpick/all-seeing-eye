@@ -1,0 +1,16 @@
+body {
+    background-image: url('background.jpg');
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    height: 100%;
+    overflow: hidden;
+}
+
+div.balloon {
+    height: 89px;
+    width: 45px;
+}
+
+div.red { background-image: url('balloon-red.png'); }
+div.blue { background-image: url('balloon-blue.png'); }
+div.green { background-image: url('balloon-green.png'); }
